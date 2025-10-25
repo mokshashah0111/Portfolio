@@ -1,4 +1,5 @@
 import { SITE } from '../data/site'
+import image from '/IMG_3298.jpg'
 
 export default function Hero() {
   return (
@@ -23,11 +24,12 @@ export default function Hero() {
           </div>
         </div>
         <div className="md:justify-self-end">
-          <div className="aspect-square w-56 md:w-72 rounded-2xl border shadow-sm grid place-content-center text-center">
+          {/* <div className="aspect-square w-56 md:w-72 rounded-2xl border shadow-sm grid place-content-center text-center"> */}
             <div>
-              <div className="text-7xl">👋</div>
-              <div className="mt-2 text-sm text-muted-foreground">Open to internships & projects</div>
-            </div>
+              <img src ={image} width = {300} height={350} pt= {24}lt="Profile Picture" className="rounded-2xl mb-4" />
+              {/* <div className="text-7xl">👋</div>
+              <div className="mt-2 text-sm text-muted-foreground">Open to internships & projects</div> */}
+            {/* </div> */}
           </div>
         </div>
       </div>

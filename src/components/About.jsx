@@ -7,12 +7,11 @@ export default function About() {
       <SectionTitle>About</SectionTitle>
       <div className="prose max-w-none">
         <p>
-          I'm a Computer Science student and international student in the USA (Class of 2026). I enjoy building
-          practical tools—especially ML-powered web apps. Recently I've worked on a cold email generator that parses
-          job postings and drafts tailored outreach, and an end‑to‑end fake news detection pipeline.
+          Hi, I’m Moksha Shah, a passionate Software Developer specializing in Artificial Intelligence, Machine Learning, and the integration of Robotics and Physical AI. Fascinated by how intelligent systems learn and adapt to the real world, I strive to turn that curiosity into meaningful code and innovative ideas.
         </p>
+        <br/>
         <p>
-          I love clean UX, performance-minded code, and teamwork. I'm actively looking for internship opportunities.
+          I thrive on solving complex problems and exploring the balance between creativity and logic, building solutions that are both technically sound and purposeful. My approach to technology is rooted in continuous learning, collaboration, and the belief that great engineering blends precision with imagination.
         </p>
       </div>
     </Container>
