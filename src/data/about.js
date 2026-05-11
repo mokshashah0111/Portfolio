@@ -1,0 +1,5 @@
+export const ABOUT_PARAGRAPHS = [
+  "I'm Moksha Shah — a Software Engineer at Loqol and an MS Computer Science candidate at California State University, East Bay (GPA 3.9). My work sits at the intersection of AI agent systems and backend engineering: I design systems that think, automate, and scale.",
+  "At Loqol, I architected 'Charlie' — an autonomous LangGraph agent that reduced property listing time from 25 minutes to under 10. Before that, at Inexture Solutions, I scaled an enterprise HR platform serving 1,000+ employees, cutting manual overhead by 40% through optimized Django APIs and Celery-based automation. As a Research Assistant at CSU East Bay, I trained and deployed OpenVLA vision-language-action models on NVIDIA Jetson hardware for real-time robotic motion planning.",
+  "I reach for Python, FastAPI, LangGraph, and LangChain when building AI systems, and Django or Next.js when shipping full-stack products. I care about measurable outcomes — not just shipping features, but improving the metrics that matter. Whether the goal is faster inference, higher completion rates, or reduced operational cost, I work backwards from impact.",
+]

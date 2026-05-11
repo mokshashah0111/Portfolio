@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+
+# Build output (Vercel builds from source)
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Vite
+*.local
+
+# Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

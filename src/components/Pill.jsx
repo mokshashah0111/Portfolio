@@ -1,6 +1,6 @@
 export default function Pill({ children }) {
   return (
-    <span className="inline-flex items-center rounded-full border px-3 py-1 text-sm">
+    <span className="inline-flex items-center rounded-md bg-zinc-100 dark:bg-zinc-700 px-2.5 py-0.5 text-xs font-medium text-zinc-700 dark:text-zinc-200">
       {children}
     </span>
   )

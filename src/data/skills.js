@@ -1,9 +1,7 @@
 export const SKILLS = {
-  Languages: ["Python", "Golang", "C++", "Java"],
-  Frontend: ["React", "Vite", "Tailwind CSS", "HTML"],
-  Backend: ["Node.js", "Express", "REST APIs"],
-  "ML/ AI": ["scikit-learn", "Pandas", "NumPy", "PyTorch", "TensorFlow", "Scikit-learn", "HuggingFace",
-, "Azure ML Studio", "Transformers", "NLP", "Computer Vision"],
-  "Generative AI": ["OpenAI API", "Claude API", "GPT-4o", "Ollama", "LangChain", "LLaMA","VLM (OpenVLA)"],
-  Tools: ["Git", "GitHub","Docker", "Linux", "Slick", "Kubernetes", "Terraform"],
+  Languages: ["Python", "C/C++", "Go", "Java", "TypeScript", "JavaScript", "C#"],
+  "AI & Agents": ["LangGraph", "LangChain", "RAG", "Fine-Tuning", "Prompt Engineering", "OpenVLA", "Voiceflow", "MLFlow"],
+  "Backend & Infra": ["FastAPI", "Django", "Flask", "Next.js", "REST APIs", "Celery", "OAuth2/JWT", "Supabase"],
+  Databases: ["PostgreSQL", "MySQL", "MongoDB", "VectorDB (FAISS, ChromaDB)", "Airtable"],
+  "Cloud & DevOps": ["AWS", "Azure", "Google Cloud", "Docker", "NVIDIA Jetson"],
 }
